@@ -24,9 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e5fff4-97be-487c-b140-4d50d400f093" name="Default Changelist" comment="asdf">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    <list default="true" id="25e5fff4-97be-487c-b140-4d50d400f093" name="Default Changelist" comment="required main.html form">
       <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +138,7 @@
       <workItem from="1613803104374" duration="4380000" />
       <workItem from="1613809332551" duration="193000" />
       <workItem from="1613809551691" duration="16000" />
-      <workItem from="1613809577779" duration="228000" />
+      <workItem from="1613809577779" duration="518000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613744449685</created>
@@ -240,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613803204094</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="required main.html form">
+      <created>1613809870130</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1613809870130</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,9 +272,14 @@
     <MESSAGE value="update Procfile" />
     <MESSAGE value="from_tf = True" />
     <MESSAGE value="ktrain" />
-    <option name="LAST_COMMIT_MESSAGE" value="ktrain" />
+    <MESSAGE value="required main.html form" />
+    <option name="LAST_COMMIT_MESSAGE" value="required main.html form" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1681" y="305" key="DiffContextDialog" timestamp="1613809879238">
+      <screen x="-1920" y="209" width="1920" height="1040" />
+    </state>
+    <state x="-1681" y="305" key="DiffContextDialog/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613809879238" />
     <state x="-1240" y="450" key="FileChooserDialogImpl" timestamp="1613809650541">
       <screen x="-1920" y="209" width="1920" height="1040" />
     </state>
@@ -303,10 +313,10 @@
       <screen x="-1920" y="209" width="1920" height="1040" />
     </state>
     <state x="-1459" y="374" key="SettingsEditor/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613755228194" />
-    <state x="-1481" y="440" key="Vcs.Push.Dialog.v2" timestamp="1613808980192">
+    <state x="-1481" y="440" key="Vcs.Push.Dialog.v2" timestamp="1613809880260">
       <screen x="-1920" y="209" width="1920" height="1040" />
     </state>
-    <state x="-1481" y="440" key="Vcs.Push.Dialog.v2/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613808980192" />
+    <state x="-1481" y="440" key="Vcs.Push.Dialog.v2/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613809880260" />
     <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960/-1920.209.1920.1040@0.0.1500.960" timestamp="1613744454979" />
     <state x="-1143" y="643" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613806755630">
       <screen x="-1920" y="209" width="1920" height="1040" />
