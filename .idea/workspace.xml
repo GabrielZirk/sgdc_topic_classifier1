@@ -24,7 +24,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e5fff4-97be-487c-b140-4d50d400f093" name="Default Changelist" comment="asdf" />
+    <list default="true" id="25e5fff4-97be-487c-b140-4d50d400f093" name="Default Changelist" comment="asdf">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +66,6 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -137,6 +140,7 @@
       <workItem from="1613803104374" duration="4380000" />
       <workItem from="1613809332551" duration="193000" />
       <workItem from="1613809551691" duration="16000" />
+      <workItem from="1613809577779" duration="228000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613744449685</created>
@@ -266,14 +270,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="ktrain" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="222" key="FileChooserDialogImpl" timestamp="1613744384561">
-      <screen x="0" y="0" width="1500" height="960" />
-    </state>
-    <state x="531" y="222" key="FileChooserDialogImpl/0.0.1500.960/-1920.209.1920.1040@0.0.1500.960" timestamp="1613744384561" />
-    <state x="-1107" y="627" key="Github.ShareDialog" timestamp="1613809423411">
+    <state x="-1240" y="450" key="FileChooserDialogImpl" timestamp="1613809650541">
       <screen x="-1920" y="209" width="1920" height="1040" />
     </state>
-    <state x="-1107" y="627" key="Github.ShareDialog/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613809423411" />
+    <state x="-1240" y="450" key="FileChooserDialogImpl/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613809650541" />
+    <state x="531" y="222" key="FileChooserDialogImpl/0.0.1500.960/-1920.209.1920.1040@0.0.1500.960" timestamp="1613744384561" />
+    <state x="-1107" y="627" key="Github.ShareDialog" timestamp="1613809667216">
+      <screen x="-1920" y="209" width="1920" height="1040" />
+    </state>
+    <state x="-1107" y="627" key="Github.ShareDialog/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613809667216" />
+    <state x="-1188" y="434" key="Github.UntrackedFilesDialog" timestamp="1613809674633">
+      <screen x="-1920" y="209" width="1920" height="1040" />
+    </state>
+    <state x="-1188" y="434" key="Github.UntrackedFilesDialog/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613809674633" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1613802016064">
       <screen x="-1920" y="209" width="1920" height="1040" />
     </state>
