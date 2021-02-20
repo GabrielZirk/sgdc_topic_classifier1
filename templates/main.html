@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>German news topic classifer</title>
+    <link rel = "stylesheet" type ="text/css" href ="../static/style.css"><link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class = "hello">
+<form action = "{{ url_for('topic_prediction') }}" method = "POST">
+
+            <span class = "headline"> German news article topic predictor &#129299; </span>
+            <p class = "headline2">&#128071; Let's predict a topic &#128071;</p>
+
+
+    <textarea class="textfield" name = "article_input" type = "text" rows = "10" cols="125" placeholder="Enter german news article here"></textarea><br>
+    <input type="submit" class="submitbutton" value="Submit" aria-label="submit" />
+</form>
+</div>
+
+    {% if not result %}
+<div class = "no-result-paragraph">
+    <p class="no-result-headline"> That's under my hood:</p>
+    <ul>
+        <li> Training/test data: <a href="https://tblock.github.io/10kGNAD/" target="_blank"> 10kGNAD - A german topic classification dataset</a>/li>
+        <li> NLTK RegexpTokenizer</li>
+        <li> Removing german stopwords using NLTK</li>
+        <li> Lemmatization with Hanta</li>
+        <li> Word embedding with Gensim (Doc2Vec)</li>
+        <li> SGDC classifier (sklearn) </li>
+        <li> Deployed with Flask on Heroku</li>
+    </ul>
+    <p> I also trained 2 transformer models, but files are to large for my free tier on Heroku &#128530;. Anyway, you can view my code here:</p>
+    <ul>
+    <li><a href="https://colab.research.google.com/drive/1GLuQ2_SaV8XXoHngZ-vAf-YBBAqgRtgk?usp=sharing" target="_blank"> Using Huggingface (DistilBERT)</a></li>
+    <li><a href="https://colab.research.google.com/drive/1JtT7q-vP7_9gscw4gJRJmkAqXGOoFLbe?usp=sharing" target="_blank"> Using ktrain (Bert)</a></li>
+    </ul>
+</div>
+    {% endif %}
+
+    {% if result %}
+<div class = "result-paragraph">
+    <p>The predicted topic is:</p>
+    <span class ="result">&#128165; {{ result }} &#128165;</span>
+        <p class="blubb">Your input was:</p>
+    <div class="orig-input-text">
+        <p>{{ original_input }}</p>
+        </div></div>
+{% endif %}
+
+</body>
+</html>

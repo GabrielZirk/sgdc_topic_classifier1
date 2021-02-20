@@ -1,0 +1,59 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    margin-top: 10vh;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.headline {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.headline2 {
+    font-size: 2rem;
+}
+div.hello {
+    text-align: center;
+}
+.textfield {
+    border: 3px dashed black;
+}
+.submitbutton {
+    font-family: 'Source Code Pro', monospace;
+    background-color: white;
+    font-weight: bold;
+    font-size: 2rem;
+    border: 3px dashed black;
+}
+.result-paragraph {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+.result {
+    font-weight: bold;
+}
+.orig-input-text {
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60vw;
+    font-size: 1rem;
+}
+.blubb {
+    font-size: 1rem;
+}
+.no-result-headline {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.no-result-paragraph {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70vw;
+    font-size: 1rem;
+}
+body a {
+    color:black;
+}
+body li {
+    padding-top: 0.5rem;
+}

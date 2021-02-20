@@ -1,0 +1,8 @@
+flask
+gunicorn
+Hanta
+sklearn
+nltk
+gensim
+joblib
+
