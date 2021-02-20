@@ -13,11 +13,6 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
@@ -25,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e5fff4-97be-487c-b140-4d50d400f093" name="Default Changelist" comment="font size headline no results">
-      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +134,8 @@
       <workItem from="1613803104374" duration="4380000" />
       <workItem from="1613809332551" duration="193000" />
       <workItem from="1613809551691" duration="16000" />
-      <workItem from="1613809577779" duration="714000" />
+      <workItem from="1613809577779" duration="1011000" />
+      <workItem from="1613816931616" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613744449685</created>
@@ -259,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613810261422</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="font size headline no results">
+      <created>1613810299586</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1613810299586</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,10 +333,10 @@
       <screen x="-1920" y="209" width="1920" height="1040" />
     </state>
     <state x="-1459" y="374" key="SettingsEditor/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613755228194" />
-    <state x="-1481" y="440" key="Vcs.Push.Dialog.v2" timestamp="1613810187186">
+    <state x="-1481" y="440" key="Vcs.Push.Dialog.v2" timestamp="1613810301799">
       <screen x="-1920" y="209" width="1920" height="1040" />
     </state>
-    <state x="-1481" y="440" key="Vcs.Push.Dialog.v2/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613810187186" />
+    <state x="-1481" y="440" key="Vcs.Push.Dialog.v2/0.0.1500.960/-1920.209.1920.1040@-1920.209.1920.1040" timestamp="1613810301799" />
     <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960/-1920.209.1920.1040@0.0.1500.960" timestamp="1613744454979" />
     <state x="-1143" y="643" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613806755630">
       <screen x="-1920" y="209" width="1920" height="1040" />
