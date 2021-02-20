@@ -24,7 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e5fff4-97be-487c-b140-4d50d400f093" name="Default Changelist" comment="mistake in html file">
+    <list default="true" id="25e5fff4-97be-487c-b140-4d50d400f093" name="Default Changelist" comment="font size headline no results">
       <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +138,7 @@
       <workItem from="1613803104374" duration="4380000" />
       <workItem from="1613809332551" duration="193000" />
       <workItem from="1613809551691" duration="16000" />
-      <workItem from="1613809577779" duration="663000" />
+      <workItem from="1613809577779" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613744449685</created>
@@ -252,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613810136377</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="font size headline no results">
+      <created>1613810261422</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1613810261422</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,7 +288,8 @@
     <MESSAGE value="ktrain" />
     <MESSAGE value="required main.html form" />
     <MESSAGE value="mistake in html file" />
-    <option name="LAST_COMMIT_MESSAGE" value="mistake in html file" />
+    <MESSAGE value="font size headline no results" />
+    <option name="LAST_COMMIT_MESSAGE" value="font size headline no results" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1681" y="305" key="DiffContextDialog" timestamp="1613809879238">
